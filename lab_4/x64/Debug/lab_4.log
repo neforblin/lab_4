@@ -1,0 +1,25 @@
+﻿  rpboLab4.cpp
+C:\Users\pava\source\repos\RBPO-labs4\lab_4\rpboLab4.cpp(83,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\pava\source\repos\RBPO-labs4\lab_4\rpboLab4.cpp(83): message : во время компиляции функции-члена класс шаблон "DequeBasedOnArray<int>::DequeBasedOnArray(std::initializer_list<T>)"
+          with
+          [
+              T=int
+          ]
+C:\Users\pava\source\repos\RBPO-labs4\lab_4\rpboLab4.cpp(255): message : выполняется компиляция ссылки на экземпляр шаблон функции "DequeBasedOnArray<int>::DequeBasedOnArray(std::initializer_list<T>)"
+          with
+          [
+              T=int
+          ]
+C:\Users\pava\source\repos\RBPO-labs4\lab_4\rpboLab4.cpp(253): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DequeBasedOnArray<int>"
+C:\Users\pava\source\repos\RBPO-labs4\lab_4\rpboLab4.cpp(239,1): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\pava\source\repos\RBPO-labs4\lab_4\rpboLab4.cpp(236): message : во время компиляции функции-члена класс шаблон "DequeBasedOnArray<int> &DequeBasedOnArray<int>::operator =(std::initializer_list<T>)"
+          with
+          [
+              T=int
+          ]
+C:\Users\pava\source\repos\RBPO-labs4\lab_4\rpboLab4.cpp(257): message : выполняется компиляция ссылки на экземпляр шаблон функции "DequeBasedOnArray<int> &DequeBasedOnArray<int>::operator =(std::initializer_list<T>)"
+          with
+          [
+              T=int
+          ]
+  lab_4.vcxproj -> C:\Users\pava\source\repos\RBPO-labs4\lab_4\x64\Debug\lab_4.exe
